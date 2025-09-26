@@ -1,7 +1,7 @@
 # Tino-part-2
 Overview:
 
-Referencies:
+Referencies: 
 
 Screenshots:
 <img width="386" height="868" alt="Web Mobile screenshot" src="https://github.com/user-attachments/assets/dc61eeea-7a37-402b-9436-4b47030e2b2e" />
